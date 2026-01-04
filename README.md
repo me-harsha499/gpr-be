@@ -10,6 +10,7 @@ Node.js/Express backend for managing interior design consultations with PostgreS
 - 🔒 CORS enabled for frontend communication
 - 📊 Admin dashboard integration
 
+
 ## Setup Instructions
 
 ### 1. Install Dependencies
